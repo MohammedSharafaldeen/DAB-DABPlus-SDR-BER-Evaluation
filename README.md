@@ -10,3 +10,14 @@ MATLAB-based implementation and evaluation of a DAB/DAB+ communication system us
 ## Report
 📄 [Project Report](BPSK_Performance_Evaluation_&_BER_Analysis.pdf) 
 
+## Features
+
+- Complete OFDM/QPSK DAB transmitter and receiver
+- BER evaluation across multiple SNR levels
+- ADALM-PLUTO SDR implementation
+- MATLAB-based simulation and wireless testing
+- Constellation diagram analysis
+- OFDM spectrum visualization
+- Preamble synchronization
+- BER comparison with theoretical QPSK performance
+- Wireless transmission and reception
